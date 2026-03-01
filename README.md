@@ -102,3 +102,9 @@ This repository is **Part 1** of a unified 4-paper road safety research program:
 - **[From-Post-Mortem-to-Prevention-AFODS](https://github.com/Nick-Barua/From-Post-Mortem-to-Prevention-AFODS)** — ISO 26262-aligned
 - **[AFODS-Sensor-Fusion-Code](https://github.com/Nick-Barua/AFODS-Sensor-Fusion-Code)** — Implementation logic
 - **[Leveraging-Multi-Modal-AI-and-ISO-26262-to-Protect-Vulnerable-Road-Users](https://github.com/Nick-Barua/Leveraging-Multi-Modal-AI-and-ISO-26262-to-Protect-Vulnerable-Road-Users)** — Safety framework
+
+## 📦 Zenodo Data Archives
+To ensure reproducibility, the supporting data for this paper is archived on Zenodo:
+* **Key Figures & Diagrams:** [https://zenodo.org/records/14841919](https://zenodo.org/records/14841919)
+* **Operational Sequence Video:** [https://zenodo.org/records/14856943](https://zenodo.org/records/14856943)
+* **Archived Source Code:** [![DOI](https://zenodo.org/badge/DOI/pending.svg)](https://zenodo.org/badge/latestdoi/your-repo-id)
