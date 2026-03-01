@@ -105,6 +105,7 @@ This repository is **Part 1** of a unified 4-paper road safety research program:
 
 ## 📦 Zenodo Data Archives
 To ensure reproducibility, the supporting data for this paper is archived on Zenodo:
-* **Key Figures & Diagrams:** [https://zenodo.org/records/14841919](https://zenodo.org/records/14841919)
-* **Operational Sequence Video:** [https://zenodo.org/records/14856943](https://zenodo.org/records/14856943)
-* **Archived Source Code:** [![DOI](https://zenodo.org/badge/DOI/pending.svg)](https://zenodo.org/badge/latestdoi/your-repo-id)
+
+* **Key Figures & Diagrams:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14841919.svg)](https://doi.org/10.5281/zenodo.14841919)
+* **Operational Sequence Video:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14856943.svg)](https://doi.org/10.5281/zenodo.14856943)
+* **Archived Source Code:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18824034.svg)](https://doi.org/10.5281/zenodo.18824034)
