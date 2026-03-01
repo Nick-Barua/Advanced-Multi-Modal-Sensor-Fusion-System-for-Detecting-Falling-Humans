@@ -92,3 +92,9 @@ This repository is **Part 1** of a unified 4-paper road safety research program:
 ## 📂 Related Repositories
 
 - **[From-Post-Mortem-to-Prevention-AFODS](https://github.com/Nick-Barua/From-Post-Mortem-to-Prevention-AFODS)** — ISO 26262-aligned
+
+- ## 📦 Zenodo Data Archives
+To ensure reproducibility, the supporting data for this paper is archived on Zenodo:
+* **Key Figures & Diagrams:** [Paste Link to Zenodo Figures Here]
+* **Operational Sequence Video:** [Paste Link to Zenodo Video Here]
+* **Archived Source Code:** [![DOI](https://zenodo.org/badge/DOI/pending.svg)](https://zenodo.org/badge/latestdoi/your-repo-id)
