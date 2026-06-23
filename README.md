@@ -48,7 +48,7 @@ This repository contains the software framework and quantitative evaluation for 
 ### Figure 6 — Comparative TPR by Environmental Condition
 ![Comparative TPR Chart](Figure_6.png)
 *AFODS vs. baseline system True Positive Rate across all four environmental conditions. AFODS maintains >95% TPR throughout; the baseline collapses to 21.4% at night and 32.1% in fog.*
-
+> 📝 **Note on Published PDF:** Due to a layout rendering glitch by the publisher in the final printed PDF of the manuscript, the chart axes and numeric labels in the journal's article layout were shifted out of alignment. The underlying experimental data is completely and correctly preserved in **Table 1** of the published paper and is accurately displayed in the corrected chart above.
 ---
 
 ## 📦 Zenodo Data Archives
